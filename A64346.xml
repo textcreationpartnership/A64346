@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender visitation of heavenly love, streaming from the fountain of endless life unto the tribulated flock of Christ (whom the world in derission calls Quakers) being several epistles given forth, by the one spirit of truth, through several of the servants of the living God, who are called among men Richard Farnsworth, John Whitehead, Thomas Greene.</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64346</idno>
+            <idno type="STC">Wing T680</idno>
+            <idno type="STC">ESTC R16615</idno>
+            <idno type="EEBO-CITATION">13153510</idno>
+            <idno type="OCLC">ocm 13153510</idno>
+            <idno type="VID">98132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 752:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender visitation of heavenly love, streaming from the fountain of endless life unto the tribulated flock of Christ (whom the world in derission calls Quakers) being several epistles given forth, by the one spirit of truth, through several of the servants of the living God, who are called among men Richard Farnsworth, John Whitehead, Thomas Greene.</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>R. F. --  (Richard Farnworth), d. 1666.</term>
+               <term>Whitehead, John, 1630-1696.</term>
+               <term>Greene, Thomas, 1634?-1699.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98132:1"/>
+            <pb facs="tcp:98132:1" rendition="simple:additions"/>
+            <p>A Tender VISITATION OF Heavenly Love, Streaming from the Fountain of Endleſs Life. UNTO The tribulated Flock of Chriſt (whom the World in Deriſſion calls Quakers) Being ſeveral Epiſtles, given forth, by the one Spirit of Truth, through ſeveral of the Servants of the Living God; Who are Called among Men
+<list>
+                  <item>
+                     <hi>RICHARD FARNSWORTH.</hi>
+                  </item>
+                  <item>
+                     <hi>JOHN WHITEHEAD.</hi>
+                  </item>
+                  <item>
+                     <hi>THOMAS GREENE.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <p>And the Leaves of the Tree, were for the Healing of the Nations,</p>
+               <bibl>
+                  <hi>Rev. 22.4.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98132:2"/>
+            <pb n="1" facs="tcp:98132:2" rendition="simple:additions"/>
+            <p>DEar Friends, whom I dearly love, and not I only, but the Lord alſo, you are beloved of the Lord, though you be hated of the world, and though you be attended with ma<g ref="char:EOLhyphen"/>ny Temptations and Tryals within and without, the Lord doth ſupport your ſpirits, and reacheth forth of his vertue and povver unto you, both to enable and refreſh you, to bear you above the ſpirit of the world, that it may neither vvith<g ref="char:EOLhyphen"/>in nor vvithout prevail againſt you, or overcome you, for it is by the povver of the Lord that you ſtand and are up<g ref="char:EOLhyphen"/>held, and he hath ovvned you, and joyned himſelf ſpiritu<g ref="char:EOLhyphen"/>ally vvith you, vvho is pleaſed to help you upon every oc<g ref="char:EOLhyphen"/>caſion, and take part vvith you, to manifeſt his povver, vertue, and vviſdome unto you, povver to ſuſtain, ſupport, eaſe, help, and deliver you, wiſdome to teach and inſtruct you, vertue to refreſh and comfort you, that you may be acquainted vvith him, depend upon him, and give glory un<g ref="char:EOLhyphen"/>to him; and ſince he hath manifeſted his love unto you, and ſhed it abroad vvithin you, have you not both been de<g ref="char:EOLhyphen"/>jected and comforted? dejected by the buffetings of Satan, and comforted by the Revivings, Refreſhings, Encourage<g ref="char:EOLhyphen"/>ments, and pourings forth of the Love, Vertue, and Spirit of God in and amongſt you; if the Lord have either vvith<g ref="char:EOLhyphen"/>held or hid himſelf from you for a trial of you, hath not many ſtrange thoughts and queſtions riſen and abounded vvithin you? hath not Satan ſtruck greatly at you, and ſore<g ref="char:EOLhyphen"/>ly buffetted you? and hath not much invvard vveakneſſe, faintneſſe, and deadneſſe attended you? and vvas not all called into queſtion that ever had been manifeſted from God, and make knovvn unto you? But after you had been tryed under ſuch an exerciſe, the Lord vvas pleaſed to appear again, and manifeſt himſelf unto you again, and then all ſtrange thoughts and queſtionings fled from you, deadneſſe and faintneſſe vvas removed, and carried avvay from you, and the appearance and pourings forth of God in you did enliven, eaſe, comfort, open, and fill you,
+<pb n="2" facs="tcp:98132:3"/>ſo that ſorrovv and ſighing fled avvay, and the joyes of heaven were manifeſted in you, and reached unto you; then was you filled with praiſes, and could aſcend over all ſorrows and troubles in pure thankſgivings, and give glory to the God of your mercies and manifold delive<g ref="char:EOLhyphen"/>rances.</p>
+            <p>Oh! my dear friends, you have had many troubles, and alſo many deliverances, ſo that you have not been kil<g ref="char:EOLhyphen"/>led, and overwhelmed with ſorrows, and Satans buffet<g ref="char:EOLhyphen"/>tings, though you have been ſore ſtruck at without as well as within, but are yet kept alive in the principle and ſpirit of God, therein to appear for him, and give glory unto him; that principle of Truth and Righteouſneſſe which God hath manifeſted and given unto you, hath met with many oppoſitions within you; and ſince you received the ſame, and were poſſeſſors thereof, you have been oppoſed for its ſake, and becauſe Satan could not kill that good thing within you (that God hath manifeſted and given un<g ref="char:EOLhyphen"/>to you) he hath ſtruck ſorely at you, for it he could but ei<g ref="char:EOLhyphen"/>ther by his flatteries or threatnings, diſpoſſeſſe you of that principle and ſpirit which God hath poſſeſſed you with<g ref="char:EOLhyphen"/>all, to keep your hearts, ſouls, and Conſciences cloſe to the Lord, and for his ſervice, and prayes in his own way of appointment, then would perſecutions and baniſhments be at an end, for the cauſe of God, as aforeſaid, but becauſe you cannot be baniſhed and driven by the ſpirit of the world from the principle and ſpirit of God, and his wayes and worſhip, into the ſpirit of God, and his wayes and worſhip, into the ſpirit and way of the world, and the worſhip thereof, you are threatned with baniſhment from your Native Countrey and outward Relations; But as you abide true and faithful to the Lord, they cannot baniſh, or drive you from the preſence of the Lord, for the earth is the Lords, and the fulneſſe thereof, and if the Lord ſuffer them to baniſh any of you, it will be for good; you are his, and he is yours; he hath owned you for his peo<g ref="char:EOLhyphen"/>ple, and ſignified unto you that he is your God; you have had many teſtimonies of his love, and refreſhings from his own preſence, to engage your hearts to him, and to carry
+<pb n="3" facs="tcp:98132:3"/>you forth after, to do or to ſuffer for him: he was with his people <hi>Iſrael</hi> when they went over the ſea, and in the wil<g ref="char:EOLhyphen"/>derneſſe alſo, and did both preſerve them and prepare a table for them, and he knows what is beſt for his people, and which way to bring moſt glory to his name, and comfort to them; and therefore it is good to be with the Lord, where<g ref="char:EOLhyphen"/>ever he would have us to be, and to commit our cauſe to him, whoſe care is over us, and whoſe love is ſo greatly mani<g ref="char:EOLhyphen"/>feſted unto us. So to the Lord I commit and commend you, with my ſelf and the whole flock and family of God, to be kept by his power, as a people in Covenant with him, to be ordered and diſpoſed of by him, as he ſees good. And my dear love extends it ſelf unto you in a pure remembrance, from that ſpirit and power which hath be<g ref="char:EOLhyphen"/>got us unto it ſelf, and bound us up in it, and thereby one in another to live and walk together in the footſteps of the flock, and to lye down on that hill of reſt, where the flock meets at noon day; and the bleſſing of him that dwelt in the buſh, when the buſh was on fire and was not burnt, be with you all. Farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>South Leverton</hi> in <hi>Nottinghamſhire,</hi> 
+                  <date>this ſixth day of the ninth Month 1664.</date>
+               </dateline>
+               <signed>Yours, as you are the Lords, <hi>Richard Farneſworth.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Let this be coppied fair over, and ſent abroad amongſt Friends, to be read in the fear and wiſdome of God, in <hi>London, Briſtoll, Hartford, Kingſton, Gloceſterſhire, Worceſterſhire, Warwickſhire,</hi> and in them parts.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:98132:4"/>
+            <p>DEar friends and brethren, called of, and gathered in the name of the Lord Jeſus Chriſt, which is the word, the light, and the life, whereby we and all men were Inlightned, that we might ſee our deformity, and be made ſenſible what glory, dignity, and felicity we loſt, by degene<g ref="char:EOLhyphen"/>rating from the law of the life of the Creator, and not only ſo, but in the ſame light; God hath given us again the knowledg of his glory, vertue, and power, that by the operation thereof through faith, we might be reformed, or created anew, rege<g ref="char:EOLhyphen"/>nerated, reſtored, and eſtabliſhed in the image and glory of God, wherein man was formed at firſt by the word of God, which hath been the principal thing preſſed unto by all the Prophets, Apoſtles, and righteous men, which have ſerved God in their generation, and been witneſſes of his good will towards men, who gave his eternal Son a ranſome for all, and to enlighten all, as the ſpirit of God now in due time hath teſtified unto us, which is an evident token that God hath not appointed us to wrath, but to obtain ſalvation, and through regeneration to become heirs of a kingdome that cannot be ſhaken, which ſtands in righteouſneſſe, peace, and joy in the holy ſpirit, wherein yee that are faithful have an acceſs to God, and do enjoy ſweet inward communion with him, whoſe tabernacle is with us, and whoſe bounty towards us hath been exceeding great, and his goodneſſe infinite, of which I cannot but declare a little, that poſterity may know there is mercy with him, that he may be feared; for in long-ſuffering he bore the infirmities of our youth, and in mercy paſſed by the ſins of former ignorance; he did alſo quicken us when we were dead, and opened our eyes that we might ſee, and our ears that we might hear: when compaſſion moved him to pi<g ref="char:EOLhyphen"/>ty us in the day of our weariſome wandrings, he reſtored us a path to dwell in, wherein he hath guided us by the skilful<g ref="char:EOLhyphen"/>neſſe of his hands, and chaſtiſed us when we have turned aſide, but loving kindneſſe and mercy he hath not taken away from us, but opened his ear unto our cry; when we were little he car<g ref="char:EOLhyphen"/>ried
+<pb n="5" facs="tcp:98132:4"/>us in his arms, and in our travels and triale he hath ſupported us, when temptations have overtaken us, and the enemy compaſ<g ref="char:EOLhyphen"/>ſed us about on every ſide he hath pitied our weakneſſe, and ſtretch<g ref="char:EOLhyphen"/>ed out his hand to deliver us by his power, we have been plucked out of the mire and clay, and our feet ſet upon a rock, out of which clean water hath flowed, both to waſh and refreſh us. Therefore I will praiſe the Lord with my whole heart, and aſcribe glory and honour unto the moſt high, for his work is perfect, and his love im<g ref="char:EOLhyphen"/>meaſurable to his children, he hath given people for our life, and will not ſpare Nations for our ranſom; they which have digged a pit, have fallen therein, and they which do lay ſnares for the inno<g ref="char:EOLhyphen"/>cent ſhall be taken therein, as our eyes have ſeen, and our fathers have told us, wherefore let us hope in the Lord as long as we live, for though he doth now, and hath often ſuffered us to be diſtreſſed, yet have we not been, nor are forſaken, and though we have been ſometimes caſt down, yet have we not been deſtroyed, becauſe un<g ref="char:EOLhyphen"/>der us have been the everlaſting arm of our God, who every way hath dealt with us as a father with his children in whom he de<g ref="char:EOLhyphen"/>lighteth.</p>
+            <p>Therefore dear friends, as we have taſted that God is gracious, let us take heed unto the grace which he hath given us, and not decline from the way that he choſe for us in the day of our ſimplicity, but bow our ears to the inſtruction of life, that we may be kept tender towards God out of the corruptions of this world, and defilements of ſin which in ancient time did grieve Gods good ſpirit, and pro<g ref="char:EOLhyphen"/>voke him to be wroth with his inheritance; wherefore let us hold faſt the myſtery of faith in a pure conſcience, and paſſe the time of our ſojourning here in Gods fear, waiting for the fulfilling of theſe very precious promiſes, which we have received, that we may be partakers of the divine nature, and thereby do the things contain<g ref="char:EOLhyphen"/>ed in the royal Law of our Lord, ſo ſhall we ſtand juſtiefid, when the ſecrets of men ſhall be manifeſt, and judged with his light, and every man feel in himſelf the reward of his works, whether they be good or evil; for in them that have done evil ſhall the wrath of God burn like devouring fire, but in them that have done good ſhall divine joy and conſolation ariſe from the wel-ſpring of Gods everlaſting love, ſo theſe things bearing a weight upon my heart, I judged it my duty to ſtir ye up by way of remembrance, for the
+<pb n="6" facs="tcp:98132:5"/>joy that is ſet before you to endure the croſſe, and deſpiſe the ſhame, committing your ſelves wholly to the Lord in well-doing, that he may keep your minds ſtable in the love of the truth, till ye come to receive a full reward for every labour of love, and for all ſufferings that ye have undergone for the Lords ſake. And deare hearts, though I am perſwaded that divers of you know theſe things, and are eſtabliſhed in the preſent truth, yet whileſt we dwell in Tabernacles of clay, and are ſubject to be tempted, the love of God conſtrains me to communicate that which I have received for your good and preſervation, deſiring that ye alſo in the ſame love may ſeek to preſerve one another, and admoniſh, exhort and ſtir up that which is good in one another, ſo much the more as we know the true light ſhineth, and hath manifeſt the things belonging to our peace, conſidering that ye muſt give an account to God, how you improve your talents; be not diſcouraged at the untowardneſſe of ſuch as have given way to the enemy, and are drove aſide by his ſubtilty and violence, for they do moſt need help that are the leaſt ſenſible of it, and do preſumptuouſly kick againſt the admonitions and exhortations of faithful friends and brethren, being hardened in themſelves, that they feel not Gods witneſſe, wherein perſiſting, they are not only beguiled of their re<g ref="char:EOLhyphen"/>ward, but loſe all tenderneſſe to the truth, and are covered with thick darkneſſe, and drowned in deſtruction and perdition. Therefore as ſoon as ye are ſenſible that the enemy hath got ad<g ref="char:EOLhyphen"/>vantage of any particular, be ready to give and receive warning and exhortation to and from one another, leſt any be hardened through the deceitfulneſſe of ſin.</p>
+            <p>And dear friends, in the name of the Lord Jeſus Chriſt, dili<g ref="char:EOLhyphen"/>gently meet together, and ſuffer not your ſelves to be drawn out from a watchful waiting ſtate, leſt ye ſlumbering do trifle away your precious time, and grow weak, and the enemy enter at unawares, for they that wait on God ſhall renew their ſtrength, and the watch<g ref="char:EOLhyphen"/>ful eye ſhall ſee his Saviour and deliverer near to the refreſhing of his ſoul, which ſhall be cloathed with righteouſneſſe, and filled with the glory and vertue of an immortal life, whileſt the ſoul of the ſluggard is cloathed with rags, and ſuch as be careleſſe, in<g ref="char:EOLhyphen"/>tangled with many hurtful luſts, wherefore dear and tender plants,
+<pb n="7" facs="tcp:98132:5"/>I ſay again, be watchfull and obedient to God in things that are cleare and manifeſt, ſo will hidden things be revealed, and ye tought to avoide every thing that tends to beget doubts, diſput<g ref="char:EOLhyphen"/>ing or Contenſion about perſons or things which are below that divine life, whereby you are enlightened, and to waite for the latter raine, where ye have received the former raine, ſo ſhall ye take deepe root in a fruitfull ground, and be no more ſubject to coffiing, whileſt your hearts are tender in the Light, ſound Judge<g ref="char:EOLhyphen"/>ment ſhall ſhut out deceit &amp; falſe ſpirits, and keep you tender and open to the inſtruction of life, both in your ſelves, and in whom<g ref="char:EOLhyphen"/>ſoever it ſhall breath forth Exhortation or doctrine, that ye may be edified or built upon that foundation which is ſure, whereby ye may be ſtrengthened againſt every appearance of evill, and ſtand pure in a righteous holy, blameleſſe life, which may ſilence all gaineſayers, and be to the praiſe and glory of God, who hath called you out of darkaneſs, into his marvellous light, wherein that ye may abide for ever, is the earneſt deſire of your brother and Companion in tribulation, who under his owne hand hath ſent you this Salutation;</p>
+            <closer>
+               <dateline>from <hi>Spalding</hi> priſon <date>this 19th. day of the 9th. Moneth 1664.</date>
+               </dateline>
+               <signed>John Whitehead.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:98132:6"/>
+            <head>This is a Salutation, or a Token of the Lords Love to all the Sufferers, who are Priſoners in <hi>Newgate,</hi> and in the other Priſons about <hi>London</hi> and <hi>Hertford,</hi> unto you this is given forth by the flowings of life to you wards.</head>
+            <p>MOſt dar and Well-beloved of the Lord, who have cho<g ref="char:EOLhyphen"/>ſen the good part, even the ſeed that is elected for ever, in which Gods bleſſings, as the dew from heaven, you have felt, by which your hearts are deeply engaged unto him, and ye cannot but follow him whitherſoever he is pleaſed to lead you; and me thinks I hear the cry of the beloved ſeed, which ſayes, <hi>Thy will be done on earth.</hi> Oh ye dear and choice ones of my Father! I daily remember you, and when my heart is fixed on my God, and my life drawn by his eternal Spirit to make ſupplication unto him, then many a time are ye ſpread before me, and as Gods innocent hoſt are ye brought into my mind as a welcome preſent, for me to draw near my God withal, then doth my ſoul cry mightily unto Jehovah, ſay<g ref="char:EOLhyphen"/>ing, Oh Lord God, how are the precious Sons of <hi>Sion,</hi> who are comparable unto fine gold, now in this day eſteemed of, and by men as earthen pitchers, the work manſhip of Potters; how long, how long, ſhall it be ſo, O Lord? Shall the wick<g ref="char:EOLhyphen"/>ed wear out the righteous, and the upright be alwayes their prey? Shall <hi>Sions</hi> Daughters for ever mourn under the op<g ref="char:EOLhyphen"/>preſſive yoake of <hi>Babylon?</hi> No, no, ſaith my God, I will but try them as well refined gold, that they may be made bright as the Sun at noon day, for I will go before them, and my go<g ref="char:EOLhyphen"/>ings are prepared as the morning, yet will I ſuffer them to be winnowed, and Ile give the power of darkneſſe power over them for a time, yet I will ſet a hedge about them as I did my ſervant <hi>Job;</hi> and this will I ſuffer to come to paſſe for the ſevering the Sheep from the Goats, the Gold from the Tin; the Poſſeſſors from the Profeſſors, and in this my work
+<pb n="9" facs="tcp:98132:6"/>I will give the righteous ones hearts greatly to rejoyce, and in their greateſt tryals to bleſſe my Name, which hath and ſhall for ever be a ſtrong Tower unto them; and I who am the in<g ref="char:EOLhyphen"/>viſible Jehovah, their mighty and beloved God, I will never leave them, for my children they ſhall be, and their children ſhall rejoyce, and their childrens children ſhall be exceeding glad that God is honoured in his people, and ſhall bleſſe, ho<g ref="char:EOLhyphen"/>nour, and praiſe the Name of the God of their fathers, and ſhall learn to know that which is a law to their mothers, and now ſhall the oppreſſed for my Name and Truth ſake, learn the language of <hi>Canaan,</hi> and the lovely melodious ſongs of <hi>Sion,</hi> and the voice of mourning amongſt my choſen ſhall not be heard, nor Lamentation among my tender plants, for I will water them every moment, and my dew from heaven ſhall fall on them, and I will cauſe them to grow in a Winter ſea<g ref="char:EOLhyphen"/>ſon, and I will build them up, and eſtabliſh them in my grace, which ſhall be ſufficient for them in a troublous time, and this will I do for my Name ſake, and all that are tender of my truth, and in that dwells, and puts their truſt in me, they ſhall never be confounded; for I will give them the heart of a valiant man, and they ſhall not be as a fainting woman in the time of her Travel, but with a ſpirit of Courage and Valour will I fill them, as a mighty men for the battel, and I will make them more then Conquerors, and their and my enemies ſhall ſee that in weakneſſe I can ordain ſtrength, and can cauſe praiſes to break forth out of the hearts of the long mourners, even as the breaking forth of the Sea, becauſe my people have had no helper in the earth, but have ſaid, Thee, O Lord, have we vvaited for in the faith and patience of Jeſus thy Will to know, thy Counſel to receive; Oh theſe ſhall be as Gems and Diadems in my hand, and I will never leave them nor forſake them ſaith the Lord of Hoſts; for I will be a fa<g ref="char:EOLhyphen"/>ther unto them, who without me are fatherleſſe, and a foun<g ref="char:EOLhyphen"/>tain open to all the thirſty ones, and I will lead them by the hand, and uphold them by my power, and they ſhall drink of the brook by the way, of the vvater prepared for <hi>Judah</hi> and <hi>Jeruſalem,</hi> by which ſin and uncleanneſſe ſhall be through<g ref="char:EOLhyphen"/>ly vvaſhed away, and my ſpotleſſe Lambs ſhall be my delight,
+<pb n="10" facs="tcp:98132:7"/>for I will dwell amongſt them, and as I have raiſed them up as an heavenly hoſt, ſo will I lead them to their Jrurneys end, for the honouring of my Name, and to the comfort of their ſouls, and none ſhall repent in that they followed me, for double into their boſomes will I returne, and of my heavenly riches, vvill I abundantly give them, in the ſence of which they ſhall in the demonſtration of my ſpirit, offer the ſacrifice of praiſes unto me, and their Priſon cryes I will regard, and though men caſt them out as a loath ſome thing, yet them will I receive: And when I heard this, my ſoul rejoyced and ſaid within me, <hi>Worthy, worthy art thou to Reign, O Lord God and the Lamb for ever.</hi> Theſe things I was preſſed in my ſpirit to de<g ref="char:EOLhyphen"/>clare unto you who are ſufferers in the places aforeſaid, or elſe<g ref="char:EOLhyphen"/>where, that you may have ſtrong Conſolation, that you may be frequent and fervent in ſpirit, for he who is the light of life is come, and we look not for another, who hath given us an underſtanding of him that is true, and hath ſignified unto us that we are in him that is true, even in him that the Father hath ſent, in whom he hath pleaſed all fulneſſe ſhould dwell, and we have received of his fulneſſe <hi>grace for grace.</hi> Thus with my love remembred to you all, I take my leave of you.</p>
+            <closer>
+               <dateline>
+                  <hi>From Viſiting our Fathers Flock in the South part of the County of</hi> Kent, <hi>among whom I have been ſweetly refreſhed ſince I left you, and now intend towards the Eaſt part, if God will. Thus much at preſent from</hi> Tenterden, <date>
+                     <hi>the</hi> 21 <hi>of the</hi> 9ht <hi>Moneth,</hi> 1664.</date>
+               </dateline>
+               <signed>Your Brother in Tribu<g ref="char:EOLhyphen"/>lation, Faith and Pa<g ref="char:EOLhyphen"/>tience of Jeſus. Fare<g ref="char:EOLhyphen"/>well. <hi>Thomas Greene.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:98132:7"/>
+            <head>
+               <hi>John Whitehead,</hi> A ſuffering Servant of the Lord, un<g ref="char:EOLhyphen"/>to the ſheep of his paſture, wiſheth ſtability in grace, increaſe of faith, with all ſpiritual comforts and bleſſings needful for your ſtrengthening and preſerva<g ref="char:EOLhyphen"/>tion in the path of life, unto the end of the race ſet before you, that you may obtain that which your ſouls long after, and not be beguiled of the recompence of Reward prepared for you that endure faithful unto the end of Time.</head>
+            <p>ASI was waiting on God, to fulfill his will, I felt the love of God ſpringing in me unto all ſouls, and in ſpirit beholding their bondage to corruption, as alſo in the light plainly ſeeing the manifold tryals that do attend the camp of the Saints, and the beloved City which they that dwell upon the earth, with the inſtruments of cruelty, are compaſſing about, thinking to wear out the Saints of the moſt high, and ſcatter the power of the holy people, who have been made inſtruments to reprove their ungodly deeds; I ſay, having be<g ref="char:EOLhyphen"/>held theſe things, and felt Gods yearning bowels to his crea<g ref="char:EOLhyphen"/>tures, and his everlaſting love to the houſe of <hi>Jacob,</hi> I have therein laboured ſince I ſaw you face to face, with good ſuc<g ref="char:EOLhyphen"/>ceſſe, to ſtreng then the plants of Gods vineyard, that they may live and grow in that ground, where they have felt both the root of life to nouriſh, and the dew of heaven to refreſh, and received divers teſtimonies of Gods power in delivering, and of his love in preſerving them, that thereby they might be encouraged to hold faſt their confidence, and perſevere un<g ref="char:EOLhyphen"/>till the righteouſneſſe of God be revealed, to render tribulati<g ref="char:EOLhyphen"/>on to them that trouble us, and to you that are troubled Reſt with us in the day that the Lord Jeſus ſhall take vengeance in flames of fire, on them that know not God, and are diſobe<g ref="char:EOLhyphen"/>dient to his glorious Goſpel, which I have alſo laboured to
+<pb n="12" facs="tcp:98132:8"/>preach unto them that dwell upon the earth, teſtifying, that the common ſalvation of every ſoul is the light which ſhineth in the heart, and ſhews the corruptions therein, that have im<g ref="char:EOLhyphen"/>bondag'd the ſoul, that the light may give unto it the knowledg of the glorious God, and lead it into the poſſeſſion of the trea<g ref="char:EOLhyphen"/>ſure in the earthen veſſel, which ſo many are ſeeking without, to find. And further, I have in the light manifeſted the con<g ref="char:EOLhyphen"/>fuſion of Babels builders, and ſhewed the nakedneſſe of the Whore in her ſecond dreſs, and reproved the abominations of the times, whereby Satan felt his kingdome weakened, and hath ſtirred up wrath againſt me, and by his inſtruments hath caſt me into priſon in the Caſtle of <hi>Lincolne,</hi> where I am now ſhut up for the teſtimony of Jeſus, and becauſe I love his lambs, and have laboured to inform ſtrangers into the right way.</p>
+            <p>And now, dear friends, what can I do more to ſtabliſh and confirm you in the faith, than patiently to ſuffer for the Lord and your ſakes, untill he break their bonds aſunder? Be aſſu<g ref="char:EOLhyphen"/>red, that I am not ſtraitned in ſpirit towards you, neither is the word of God bound, but therein do I breath unto the God of all power, that your faith may not fail, but be daily en<g ref="char:EOLhyphen"/>creaſed, and in the vertue of the word, my ſoul ſaith unto my heavenly Father, who is the husbandman, and walketh in his Vineyard, Water thy plants every moment, and cauſe them to grow in thy vertue, for without inſtrument thou canſt perform thy work, therefore let the light of thy coun<g ref="char:EOLhyphen"/>tenance ſhine upon them, that they may behold thy preſence in their aſſemblice, in their watchings let them feel thee near to deliver out of temptation, and in their waiting upon thee let thy viſitations renew their ſtrength, that they may walk together in thy love, and truſt perfectly in thy name: O Lord, poure forth of thy Spirit both on ſons and Daughters, that in the leadings of it they may ſerve and worſhip thee, and be a refreſhing and comfort one to another. Let thy glo<g ref="char:EOLhyphen"/>rious power be revealed in us, and ſtretch out thy hand for our help, for thou alone doſt know our innocency, and haſt pittied us in our affliction; Therefore we hope in thy mercy, and commit our ſelves to thee, for in the day of thy power
+<pb n="13" facs="tcp:98132:8"/>we were made willing to ſtay on thee, and are gathered in thy name for refuge.</p>
+            <p>And now, O righteous Father, not only we whom thou haſt recovered out of the Apoſtacy, that have received the firſt fruits of thy Spirit, but the Creation which thou haſt made groans to be delivered from the oppreſſion of Violence and bondage to corruption. Therefore let thy bowels yerne to<g ref="char:EOLhyphen"/>wards thy ſuffering ſeed, and thy mercy reach over all thy works, and in thy righteouſneſſe cut ſhort the dayes of <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> trouble, and reſtore all things by thy power, that all thine enemies may dread thy name, and ſee that thou knoweſt how to deliver them that put their truſt in thee, that they alſo may bow to thy Scepter, and thy kingdome come over all, for unto thee alone, with thy Word and Spirit, belongs Glory, Majeſty, Worſhip, Dominion and Reverence, for ever and ever.</p>
+            <p>Thus having poured out my ſupplication unto the Lord, who himſelf loveth you, in diſcharge of my duty to him, as alſo to you, (unto whom I owe my whole life) I do exhort you all to wait upon the Lord in the meaſure of light which he hath given you, and look not out at things which are ſeen; leſt your faith fail, neither be diſcouraged, becauſe you are ſenſible of your own weakneſſe, for you are Gods in<g ref="char:EOLhyphen"/>ſtruments, by whom he will confound the ſtrong and mighty, therefore be not diſmayed at the enemies rage, whether in<g ref="char:EOLhyphen"/>ward or outward, for though he fift you as wheat, yet not one corn ſhall be loſt, and though he tread over, and cruſh ſome of your tender plants with his feet, yet ſhall the life of your root cauſe ſuch again to ſpring up. Therefore let not your hearts be troubled, nor fear thoſe ſufferings or hardſhips that the enemy ſets before you, to cauſe you to ſtumble, or turn aſide out of the right way; but look up unto the God of all mercy, by whom you do enjoy all things that you have both pertaining to this life, and that which is to come, who hath delivered you out of the jaws of the devourer unto this day, and doth not intend your deſtruction, though he ſuffer you to paſſe through many great tribulations, for the trial of your faith, and exerciſe of your patience, that all of you may
+<pb n="14" facs="tcp:98132:9"/>be fully made manifeſt, and ſuch approved as do love God more than all things under the Sun, and with their hearts do perfectly truſt in him, and ſeek not out any invention to ſave themſelves, which may grieve his ſpirit, but delight in his love, to do his will, and do patiently wait to inherit the pro<g ref="char:EOLhyphen"/>miſe, in the day of their diſtreſs,, flying unto his name alone for refuge and protection; I ſay, ſuch ſhall never be put to confuſion, nor rooted up, but grow and be nouriſhed, as the Lillies in the valley, and in bringing forth fruit be bleſſed for ever.</p>
+            <p>But they that with their hearts depart from the living God, and bow down to an image invented by man, and truſt in the arm of fleſh, thinking by a corrupt compliance with the world, and their own care, wiſdome, and prudence, to ſave themſelves, ſhall certainly find deſtruction in their goings. Therefore let ſuch conſider, whether they have an arm like the higheſt, or can deliver themſelves from the ſword in the day of battel, or from death in the time of plague, or from hunger in the time of famine; or whether they can deliver their corn from blaſting and mildew, or the fruits of the ground from the Palmer worm and Caterpiller; and who can deliver their cattel from the hail ſtones, ſhafts of lightning, murrain, conſuming rot, and other inſtruments of deſtruction which are at Gods appointment? and who can deliver their houſes and fields, their baskets and ſtore from Gods curſe, if rebelliouſly or treacherouſly they depart from him? or think<g ref="char:EOLhyphen"/>eſt thou, O vain man, thereby to make thy off-ſpring bleſſed, or lay up treaſure for thy children? ſhall it not be a ſnare unto them, untill the moth conſume it? Wherefore, I ſay, moſt bleſſed is the man whoſe help is in the name of the Lord, and that puts his confidence in God, who caſteth down, and rai<g ref="char:EOLhyphen"/>ſeth up, killeth, and maketh alive, as pleaſeth him, on whom all creatures do wait, and be gives nouriſhment to every thing that hath life, whether Vegetable or Animal. O then fear not little flock, but caſt your care upon him, and walk before him with a perfect heart, and love him above all things, in every thing watching that your conſciences may be kept void of offence, and nothing ſpoken nor acted againſt the light of the
+<pb n="15" facs="tcp:98132:9"/>Lord Jeſus Chriſt, ſo in him you ſhall have peace, though in the world you have trouble, yet ſhall your latter end be bleſe ſed, and your off-ſpring inherit your ſubſtance.</p>
+            <p>And dear friends, meet often together in the name of the Lord, as he requireth, notwithſtanding the contradiction of Sinners, and the Laws of mortal men, ſo ſhall you feel the pure preſence of God in the midſt of you, and in the day of adverſity he will be your hiding place, and not leave you deſtitute of help in time of affliction, therefore diligently wait on God in all your meetings, that you all may inherit the promiſe of the Father, which the world cannot receive, even the holy Spirit, that in it you may worſhip God, and exhort, comfort, and pray for one another, and for your enemies, not quenching the ſpirit, and beware of bringing forth any thing, or running into any thing, but as you are led with the ſpirit and power of the Lord.</p>
+            <p>And if any have erred from the truth, let them return, and patiently wait on God for mercy and forgiveneſſe, who pitties the wandrings of his ſheep, and in dear compaſſion ſeeks after that which is loft, though ninety and nine be left alone in the wilderneſſe. Therefore, as he is merciful, dear children, be ye merciful, and ready to forgive one another, and your enemies, as God for Chriſt's ſake hath forgiven you; and have perfect peace and love amongſt your ſelves, and in no wiſe jarr one with another, leſt ye be guilty of weakening one another, and ſo drive the halt out of the way, but in all lowlineſſe of mind, and tenderneſſe of heart, condeſcend one to another in the truth, that you may not grieve one another, and judge that eye which is more apt to look at anothers weakneſs than thy own, and that mind which hath a delight to ſpread it abroad, for it is in tranſgreſſion of the Royal Law, left thou be judg<g ref="char:EOLhyphen"/>ed of God, and the meaſure which thou haſt given to others be meaſured to thee again.</p>
+            <p>And you whom the Lord doth anoint with the oyl of glad<g ref="char:EOLhyphen"/>neſs, take heed of exalting above your fellows, (which is the heads place) and beware of doing any thing whereby they that are in heavineſs with the mother, (which yet travails to bring forth) and dwell in her houſe of mourning, may be
+<pb n="16" facs="tcp:98132:10"/>grieved, for God accepteth them; therefore let your melody unto the Lord, who ſeeth in ſecret, be chiefly in heart, and ſtoop low, that you may mourn with them that mourn, and if need be, enter into heavineſs with them that are in heavineſs, ſo in the pure love and ſympathy one with another, you may edifie one another, and be comforted of God together, growing unto a habitation of his delight, who by his Spirit hath ſignified how pleaſant it is for brethren to dwell toge<g ref="char:EOLhyphen"/>ther in unity.</p>
+            <p>And dear Lambs, none of you be diſcouraged becauſe of my bonds, but in a pure Conſcience hold faſt the myſtery of faith without wavering, for though the Devil ſhould caſt many of Gods ſervants into priſon, yet the victory is ſure to the Lambs followers, who through his precious blood, and the word of their teſtimony, ſhall come through the tribulation of theſe dayes, which ſhall have an end, when it is manifeſt, that we as naturally ſerve God as <hi>Job</hi> did, and not for any ſelf end, but are as willing to be ſtript of all, and embrace affliction for his names ſake, as to be compaſſed about with bleſſings. And in the mean time, the ſuffering of Gods lambs, whether impri<g ref="char:EOLhyphen"/>ſonment, ſpoiling of their goods, or baniſhment, are not on<g ref="char:EOLhyphen"/>ly for the purifying, and making them white, but alſo for a tryal, and to leave all without excuſe, that make mention of the name of the Lord Jeſus Chriſt, whom he will judge in righ<g ref="char:EOLhyphen"/>teouſneſs, according to their works, in the day of ſeperation, when the ſheep ſhall ſtand on the right hand, and the goats on the left. Then to them on his right hand, who have been as ſheep given up to the ſlaughter, he will ſay, <hi>Come ye bleſſed of my Father, inherit the Kingdome prepared for you from the founda<g ref="char:EOLhyphen"/>tion of the world; for I was naked, and ye cloathed me, I was a ſtranger, and ye took me in, hungry, and ye fed me, thirſty, and ye gave me drink, ſick and in priſon, and ye miniſtred unto me; for in as much as ye did it to one of thoſe that believe in me, ye did it unto me.</hi> But to them on his left hand, the Lord will ſay, <hi>Go ye curſed, into everlaſting fire, prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels; for I was naked, and ye cloathed me not, a ſtranger, and ye took me not in, hungry, and ye fed me not, thirſty, and ye gave me no drink, ſick and in priſon, and ye viſited me not.</hi> But in as much
+<pb n="17" facs="tcp:98132:10"/>as their eyes are without, and they will not ſee him afflicted in his people, they will ſay, <hi>When ſaw we thee naked, or a ſtran<g ref="char:EOLhyphen"/>ger, or hungry, or thirſty, or ſick, or in priſon, and did not miniſter unto thee?</hi> Then ſhall our Lord and King ſay, <hi>in as much as ye did it not unto the leaſt of theſe that believe in me, ye did it not unto me: And the Righteous ſhall enter into everlaſting life, but the Wicked into everlaſting puniſhment.</hi>
+            </p>
+            <lg>
+               <l>O Then rejoyce ye ſuffering Lambs,</l>
+               <l>Becauſe the day draws near</l>
+               <l>Wherein God will break all Satans bonds,</l>
+               <l>And eke your innocency clear.</l>
+               <l>That all the earth may know</l>
+               <l>You are his paſture ſheep,</l>
+               <l>Whom he doth feed in vallyes low,</l>
+               <l>Where runs lifes fountains deep:</l>
+               <l>That ye therein may waſhed be</l>
+               <l>Whiter than Snow in <hi>Salmon,</hi>
+               </l>
+               <l>In beauty to exceed the fair Lilly,</l>
+               <l>When com'd through the great tribulation:</l>
+               <l>Wherein your faith and patience,</l>
+               <l>Your zeal, your love, and conſtancy</l>
+               <l>To the Lord God omnipotent,</l>
+               <l>Hee'l fully prove and try,</l>
+               <l>Then in the power ye ſhall ſtand,</l>
+               <l>On Sions holy Mountain,</l>
+               <l>With Pſalmes in each right hand,</l>
+               <l>And praiſes ſpringing from the fountain</l>
+               <l>Of endleſs life, in victory triumphant</l>
+               <l>Wherewith God will you crown</l>
+               <l>Over th' Earth, Whore, and Dragons power ſo rampant,</l>
+               <l>To reign in high renown.</l>
+               <l>Therefore in patience, faith, and hope,</l>
+               <l>Wait Gods will to fulfill,</l>
+               <l>And in his love your ſouls repoſe</l>
+               <l>Till valleys riſe above the hills.</l>
+               <l>Then you that with mans Judgment wronged are,</l>
+               <l>And for pure Conſcience ſake oppreſſed,</l>
+               <pb n="18" facs="tcp:98132:11"/>
+               <l>Amongſt the bleſſed you ſhall have a ſhare,</l>
+               <l>And at th' Lambs throne in righteouſneſs be redreſſed.</l>
+               <l>In ſight of all your foes,</l>
+               <l>Who at their will and pleaſure,</l>
+               <l>By unjuſt decrees have you expos'd</l>
+               <l>To ſufferings without meaſure.</l>
+               <l>Who then ſhall underſtand, and too late repent</l>
+               <l>The errours of their life,</l>
+               <l>Being conſtrain'd by righteous puniſhment,</l>
+               <l>To ſee they have cauſed their own grief,</l>
+               <l>By kicking' gainst the pricks</l>
+               <l>In their own Conſciences,</l>
+               <l>Whilſt they devis'd new tricks</l>
+               <l>To add affliction to the Innocents:</l>
+               <l>Who do on God depend,</l>
+               <l>Their righteous cauſe to judge,</l>
+               <l>And cannot ſeek revenge</l>
+               <l>On them who life them grudge.</l>
+            </lg>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+            <postscript>
+               <p>The firſt Copy of this was writ in the Caſtle of <hi>Lincoln,</hi> the 22d. day of the 9th. Moneth. 1661.</p>
+               <p>Let it be carefully copied over, and ſent to be read in the meetings of friends, amongſt whom I have laboured while it was day, having peace (in this hour of the worlds darkneſs) in which I reſt, with all the Brethren, and friends that be faithful.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:98132:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
